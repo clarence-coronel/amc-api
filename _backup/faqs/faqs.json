@@ -1,20 +1,40 @@
 {
     "faqs": [
         {
-            "question": "How long does it take to get a quote?",
-            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            "question": "What is vinyl decking?",
+            "answer": "Vinyl decking is a durable and low-maintenance option for outdoor decks. It is made from polyvinyl chloride (PVC) which is resistant to moisture, decay, and insect infestations."
         },
         {
-            "question": "How long does it take to get a quote?",
-            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            "question": "How long does vinyl decking last?",
+            "answer": "Quality vinyl decking can last anywhere from 20 to 30 years or more when properly installed and maintained. Its longevity can be significantly higher than traditional wood decking."
         },
         {
-            "question": "How long does it take to get a quote?",
-            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            "question": "Is vinyl decking safe and slip-resistant?",
+            "answer": "Yes, vinyl decking is designed to be slip-resistant, and it maintains better traction than wood, especially when wet. Additionally, it doesn't splinter or crack, making it a safer option overall."
         },
         {
-            "question": "How long does it take to get a quote?",
-            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            "question": "How do I clean vinyl decking?",
+            "answer": "Vinyl decking is very easy to clean. For regular maintenance, you can use soap, water, and a soft-bristle brush to remove dirt and debris. For more stubborn stains, there are specialized vinyl deck cleaners available."
+        },
+        {
+            "question": "Can vinyl decking fade over time?",
+            "answer": "While vinyl decking is UV-resistant and is less likely to fade than wood, some slight fading can occur over time due to prolonged exposure to sunlight. Choosing high-quality, UV-protected vinyl can minimize this effect."
+        },
+        {
+            "question": "Can I install vinyl decking and railing myself?",
+            "answer": "Vinyl decking and railing systems can be installed by a do-it-yourself enthusiast with the right tools and instructions. However, for the best results and to ensure warranties are upheld, professional installation is recommended."
+        },
+        {
+            "question": "Do vinyl decks get hot in the sun?",
+            "answer": "Vinyl decking can get warm in direct sunlight, similar to other decking materials, but some brands offer products with lighter colors that reduce heat absorption."
+        },
+        {
+            "question": "Are there different colors and styles of vinyl decking and railing?",
+            "answer": "Yes, there are a wide variety of colors and styles available that can mimic the look of natural wood or feature unique patterns and designs to fit your aesthetic preferences."
+        },
+        {
+            "question": "How environmentally friendly is vinyl decking?",
+            "answer": "Vinyl decking is not a natural material, but it is low maintenance which means less usage of chemical cleaners. Additionally, it often has a longer lifespan than wood decking, reducing the frequency of replacement."
         }
     ]
 }
