@@ -1,24 +1,28 @@
 {
     "testimonials": [
         { 
-            "name": "Johnny", 
-            "content": "Ang galing talaga ng AMC! Hindi ko inaasahan na magiging ganito ka-ganda ang resulta ng kanilang decking service. Sobrang linis at maayos ang pagkakalatag ng mga materyales. Sulit talaga!" 
+            "name": "Christopher", 
+            "content": "AMC is really amazing! I didn't expect their decking service to turn out this beautiful. The materials were laid out so cleanly and neatly. Totally worth it!" 
         },
         { 
-            "name": "Woody", 
-            "content": "Astig ng serbisyo ng AMC! Hindi ko talaga ine-expect na ganito ka-ganda ang magiging resulta. Sobrang linis at maayos ang pagkakalatag ng materials. Worth it!" 
+            "name": "Carl", 
+            "content": "Choosing AMC for our decking and railing needs was the best decision we made for our home renovation. The end result is not only stunning but also durable and low-maintenance." 
         },
         { 
-            "name": "Juan", 
-            "content": "Grabe, sobrang ganda ng ginawa ng AMC sa decking service nila. Hindi ko akalain na magiging ganito ka-ganda ang resulta. Super linis at maayos ang pagkakalatag ng materials. Worth it talaga!" 
+            "name": "Vincent", 
+            "content": "I can't recommend AMC enough! Their vinyl decking and railing transformed my dull patio into a stylish and inviting oasis. Their team was professional, efficient, and a pleasure to work with." 
         },
         { 
-            "name": "Carlo", 
-            "content": "Sobrang galing talaga ng AMC! Hindi ko talaga inaasahan na ganito kaganda ang magiging resulta. Napakalinis at maayos ang pagkakalatag ng mga materyales. Sulit sa'yo!" 
+            "name": "Jennifer", 
+            "content": "AMC Vinyl Decking and Railing exceeded all my expectations! From the initial consultation to the final installation, their team provided exceptional service and delivered a product that truly enhances our outdoor living space." 
         },
         { 
-            "name": "Ian", 
-            "content": "Amazing ang serbisyo ng AMC! Hindi ko inaasahan na ganito ka-ganda ang magiging resulta. Sobrang linis at maayos ang pagkakalatag ng mga materyales. Worth it sa'kin!" 
+            "name": "Jasper", 
+            "content": "AMC Vinyl Decking and Railing went above and beyond to make sure our project was a success. Their attention to detail and commitment to customer satisfaction sets them apart from the rest." 
+        }.
+        {
+            "name" "Amelia",
+            "content": "AMC Vinyl Decking and Railing provides top-quality products and outstanding service. They listened to our needs and preferences and delivered a finished product that exceeded our expectations. Highly recommend!"
         }
     ]
 }
